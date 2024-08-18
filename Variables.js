@@ -10,7 +10,7 @@ let userIntro = 'Hi, I am ' + userName + ' ' + lastName;
 console.log(userIntro);
 
 // let newAlert = alert("Hello, I am alert");
-// console.log(newAlert)
+// console.log(newAlert);
 
 // let NewConfirm = confirm("Would you like to processed ?");
 // console.log(NewConfirm);
